@@ -1,0 +1,6 @@
+c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\bin\Debug\my_RSA.exe.config
+c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\bin\Debug\my_RSA.exe
+c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\bin\Debug\my_RSA.pdb
+c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\obj\Debug\my_RSA.csprojResolveAssemblyReference.cache
+c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\obj\Debug\my_RSA.exe
+c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\obj\Debug\my_RSA.pdb
