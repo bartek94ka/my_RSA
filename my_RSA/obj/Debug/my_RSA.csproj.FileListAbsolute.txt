@@ -1,6 +1,15 @@
 c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\bin\Debug\my_RSA.exe.config
 c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\bin\Debug\my_RSA.exe
 c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\bin\Debug\my_RSA.pdb
-c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\obj\Debug\my_RSA.csprojResolveAssemblyReference.cache
 c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\obj\Debug\my_RSA.exe
 c:\users\bartosz\documents\visual studio 2013\Projects\my_RSA\my_RSA\obj\Debug\my_RSA.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Common.Logging.dll
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\GithubNugetDistributor.exe
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Octokit.dll
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Spring.Rest.dll
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Spring.Social.Core.dll
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Spring.Rest.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Spring.Rest.xml
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Spring.Social.Core.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\bin\Debug\Spring.Social.Core.xml
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\my_RSA\my_RSA\obj\Debug\my_RSA.csprojResolveAssemblyReference.cache
